@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Overpass&weight=500&size=35&pause=500&color=2B6CB0&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=65&lines=Hello!+I'm+Milad👋;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 </h1>
 
-- 🎓 Master's student in **Computer Science** @ Northeastern University 🇺🇸
+- 🎓 Master's student in **Computer Science** @ Northeastern University 
 - 🚀 Seeking internships/**New Grad** roles in 2025!
 - 💻 Passionate about Data Science, Data Engineering, Machine Learning Engineering, Game Programming, and Computational Design
 - 🎾⚽ Tennis and soccer player
