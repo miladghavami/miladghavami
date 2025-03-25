@@ -3,7 +3,7 @@
 </h1>
 
 - 🎓 Master's student in **Computer Science** @ Northeastern University 🇺🇸
-- 🚀 Seeking internships/Co-op opportunities/**New Grad** roles in 2025!
+- 🚀 Seeking internships/**New Grad** roles in 2025!
 - 💻 Passionate about Data Science, Data Engineering, Machine Learning Engineering, Game Programming, and Computational Design
 - 🎾⚽ Tennis and soccer player
 - 📬 Contact me: [mi.ghavami@gmail.com](mailto:mi.ghavami@gmail.com)
